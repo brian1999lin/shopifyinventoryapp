@@ -9,3 +9,9 @@ This back-end was created with Java Spring Boot, and features Swagger integratio
 Clone the repository into a directory of your choosing, and run the Spring Boot application with Maven using `mvn spring-boot:run`. For the interactive Swagger UI, go to `localhost:8080/swagger-ui.html`. From this page you can view and test each endpoint.
 
 Unit tests can be performed by running `mvn clean test`.
+
+## Additional info
+
+Thank you for the opportunity to take this challenge! It was really fun being able to create a simple app like this and test the knowledge/skills I learned from my previous co-ops.
+
+Cheers!
