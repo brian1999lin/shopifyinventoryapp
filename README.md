@@ -1,2 +1,11 @@
-# shopifyinventoryapp
+# Shopify Marketplace Back-end | Summer 2019 Developer Intern Challenge Question
+
 A sample Shopify marketplace back-end. Supports inventory manipulation. Created for the Shopify Summer 2019 Back-End Developer challenge.
+
+## Introduction
+This back-end was created with Java Spring Boot, and features Swagger integration for easy visualization of endpoints as well as endpoint testing. For easy setup, an H2 in-memory database was used; in the real world, the database would be hosted on the cloud, but for the purposes of this challenge I chose an in-memory database. Test cases were created to test each endpoint using MockMVC.
+
+## Setup
+Clone the repository into a directory of your choosing, and run the Spring Boot application with Maven using `mvn spring-boot:run`. For the interactive Swagger UI, go to `localhost:8080/swagger-ui.html`. From this page you can view and test each endpoint.
+
+Unit tests can be performed by running `mvn clean test`.
