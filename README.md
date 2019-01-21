@@ -17,3 +17,5 @@ Unit tests can be performed by running `mvn clean test`.
 Thank you for the opportunity to take this challenge! It was really fun being able to create a simple app like this and test the knowledge/skills I learned from my previous co-ops.
 
 Cheers!
+
+P.S.: If you're reading this README.md through a download .zip, feel free to check out the GitHub repo at `https://github.com/brian1999lin/shopifyinventoryapp`.
