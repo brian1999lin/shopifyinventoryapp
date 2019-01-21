@@ -1,4 +1,4 @@
-# Shopify Marketplace Back-end | Summer 2019 Developer Intern Challenge Question
+# Shopify Marketplace Back-End | Summer 2019 Developer Intern Challenge Question
 
 A sample Shopify marketplace back-end. Supports inventory manipulation. Created for the Shopify Summer 2019 Back-End Developer challenge.
 
