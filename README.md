@@ -7,6 +7,7 @@ This back-end was created with Java Spring Boot, and features Swagger integratio
 
 ## Setup
 If you haven't already, install Maven at `https://maven.apache.org/install`, as well as Java at `https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html`.
+
 Clone the repository into a directory of your choosing, and run the Spring Boot application with Maven using `mvn spring-boot:run`. For the interactive Swagger UI, go to `localhost:8080/swagger-ui.html`. From this page you can view and test each endpoint.
 
 Unit tests can be performed by running `mvn clean test`.
