@@ -18,4 +18,4 @@ Thank you for the opportunity to take this challenge! It was really fun being ab
 
 Cheers!
 
-P.S.: If you're reading this README.md through a download .zip, feel free to check out the GitHub repo at `https://github.com/brian1999lin/shopifyinventoryapp`.
+P.S.: If you're reading this README.md through a downloaded .zip, feel free to check out the GitHub repo at `https://github.com/brian1999lin/shopifyinventoryapp`.
