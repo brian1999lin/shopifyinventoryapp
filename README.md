@@ -1,6 +1,6 @@
-# Shopify Marketplace Back-End | Summer 2019 Developer Intern Challenge Question
+# Shopify Marketplace Back-End
 
-A sample Shopify marketplace back-end. Supports inventory manipulation. Created for the Shopify Summer 2019 Back-End Developer challenge.
+A mock marketplace back-end meant to mimic that of a Shopify inventory microservice. Supports inventory manipulation.
 
 ## Introduction
 This back-end was created with Java Spring Boot, and features Swagger integration for easy visualization of endpoints as well as endpoint testing. For easy setup, an H2 in-memory database was used; in the real world, the database would be hosted on the cloud, but for the purposes of this challenge I chose an in-memory database. Test cases were created to test each endpoint using MockMVC.
